@@ -1,0 +1,2 @@
+# Gerenciamento Inteligente de Fluxo de Trabalho
+Este projeto fornece uma abordagem estruturada para gerenciar fluxos de trabalho, integrando automação baseada em IA e tarefas manuais de maneira eficiente.
